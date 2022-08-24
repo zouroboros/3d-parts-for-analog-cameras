@@ -18,9 +18,10 @@ FreeCAD --console export_stl.py
 
 Moreover some models are uploaded to various sites.
 
-| Model | Link |
-| ----- | ---- |
-| Meopta Belar 45mm f3.5 front lens cap | [Cults](https://cults3d.com/en/3d-model/various/meopta-belar-45mm-f3-5-lens-cap) |
+| Model | Link | Article |
+| ----- | ---- | ------- |
+| Meopta Belar 45mm f3.5 front lens cap | [Cults](https://cults3d.com/en/3d-model/various/meopta-belar-45mm-f3-5-lens-cap) | |
+| Chinon Bellami battery cover | [Cults](https://cults3d.com/en/3d-model/various/chinon-bellami-battery-cover) | [murks.me](https://murks.me/projects/3d-parts-for-analog-cameras/battery-cover-for-the-chinon-bellami.html) |
 
 License
 -------
