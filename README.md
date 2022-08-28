@@ -22,6 +22,7 @@ Moreover some models are uploaded to various sites.
 | ----- | ---- | ------- |
 | Meopta Belar 45mm f3.5 front lens cap | [Cults](https://cults3d.com/en/3d-model/various/meopta-belar-45mm-f3-5-lens-cap) | |
 | Chinon Bellami battery cover | [Cults](https://cults3d.com/en/3d-model/various/chinon-bellami-battery-cover) | [murks.me](https://murks.me/projects/3d-parts-for-analog-cameras/battery-cover-for-the-chinon-bellami.html) |
+| Fuji GX front lens cap (82mm) | [Cults](https://cults3d.com/en/3d-model/various/front-lens-cap-for-fuji-gx-lenses) | |
 
 License
 -------
