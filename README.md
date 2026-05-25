@@ -24,6 +24,7 @@ Moreover some models are uploaded to various sites.
 | Chinon Bellami battery cover | [Cults](https://cults3d.com/en/3d-model/various/chinon-bellami-battery-cover) | [murks.me](https://murks.me/projects/3d-parts-for-analog-cameras/battery-cover-for-the-chinon-bellami.html) |
 | Fuji GX front lens cap (82mm) | [Cults](https://cults3d.com/en/3d-model/various/front-lens-cap-for-fuji-gx-lenses) | |
 | Enna München Tele-Ennalyt 135mm f2.8 aperture preset button | [Cults](https://cults3d.com/en/3d-model/tool/enna-munchen-tele-ennalyt-135mm-f2-8-aperture-preset-button) | |
+|  Rollei SL66 80mm f2.8 Planar lens cap | [Cults](https://cults3d.com/en/3d-model/gadget/rollei-sl66-80mm-f2-8-planar-lens-cap) | [murks.me](http://127.0.0.1:8000/projects/3d-parts-for-analog-cameras.html) |
 
 License
 -------
